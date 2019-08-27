@@ -3,23 +3,6 @@
 import os, getopt, sys
 from datetime import datetime
 
-class Color():
-    @staticmethod
-    def bold(str):
-        return "\033[01m"+str + "\033[0m"
-
-    @staticmethod
-    def green(str):
-        return "\033[32m"+str + "\033[0m"
-
-    @staticmethod
-    def lightgrey(str):
-        return  "\033[37m"+str + "\033[0m"
-
-    @staticmethod
-    def red(str):
-        return "\033[31m" + str + "\033[0m"
-
 
 class File():
 
