@@ -6,6 +6,7 @@ Linux için /var/log altında logları verilen parametrelere göre filtreler.
  * -l LINE, --line LINE  Log'dan getirilecek satır sayısı
  * -f FILTER, --filter FILTER  Getirilen satır içinde filtrelenmek istenen kelime
 
+ÖRNEK KULLANIMLAR
 
 Son bir saat içerisinde değişiklik yapılmış log'lardan son 10 satır getir ve yazdır.
 
