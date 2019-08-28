@@ -8,9 +8,9 @@ Linux için /var/log altında logları verilen parametrelere göre filtreler.
 
 ÖRNEK KULLANIMLAR
 
-Son bir saat içerisinde değişiklik yapılmış log'lardan son 10 satır getir ve yazdır.
+Son 2 saat içerisinde değişiklik yapılmış log'lardan son 10 satır getir ve yazdır.
 
-> python3 ./log_checker.py -r 1 -l 10 
+> python3 ./log_checker.py -r 2 -l 10 
 
 Tüm logların tüm satırlarını getir ve yazdır.
 
