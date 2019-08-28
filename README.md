@@ -1,4 +1,4 @@
-# log_checker
+# LogChecker
 Linux için /var/log altında logları verilen parametrelere göre filtreler.
 
   
