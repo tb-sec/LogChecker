@@ -1,5 +1,5 @@
 # LogChecker
-Linux için /var/log altında logları verilen parametrelere göre filtreler.
+Linux için /var/log altındaki logları verilen parametrelere göre filtreler.
 
   ## Parametreler
  * -r RANGE, --range RANGE Saat öncesinden itibaren log'ları kontrol et
