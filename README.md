@@ -1,11 +1,6 @@
 # log_checker
 Linux için /var/log altında logları verilen parametrelere göre filtreler.
 
-Parametreler:
--r ( --range ) : Girilen saat öncesinden itibaren değişiklik olan logları kontrol et.
--l (--line ) Girilen satır sayısı kadar logtan satır getir.
--f ( --filter ) : Getirilen log'lardan girilen kelimeyi filitrele.
-
 Kullanımı : 
 
 #Son bir saat içerisinde değişiklik yapılmış log'lardan son 10 satır getir ve yazdır.
