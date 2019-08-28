@@ -1,12 +1,12 @@
 # LogChecker
 Linux için /var/log altında logları verilen parametrelere göre filtreler.
 
-  
+  ## Parametreler
  * -r RANGE, --range RANGE Saat öncesinden itibaren log'ları kontrol et
  * -l LINE, --line LINE  Log'dan getirilecek satır sayısı
  * -f FILTER, --filter FILTER  Getirilen satır içinde filtrelenmek istenen kelime
 
-ÖRNEK KULLANIMLAR
+## Örnek Kullanımlar
 
 Son 2 saat içerisinde değişiklik yapılmış log'lardan son 10 satır getir ve yazdır.
 
