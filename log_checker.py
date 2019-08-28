@@ -41,7 +41,6 @@ class File():
             with open(self.file["path"], "r") as f:
                 readable = True
                 err_msg = ""
-                read_list = list()
                 count = 0
                 read = f.readlines()
                 index = len(read)
