@@ -8,7 +8,7 @@ Linux için /var/log altındaki logları verilen parametrelere göre filtreler.
 
 ## Örnek Kullanımlar
 
-Son 2 saat içerisinde değişiklik yapılmış log'lardan son 10 satır getir ve yazdır.
+Son 2 saat içerisinde değişiklik yapılmış log dosyalarının son 10 satırını getir ve yazdır.
 
 > python3 ./log_checker.py -r 2 -l 10 
 
